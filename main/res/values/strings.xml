@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">utilityApp</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="background_color">Background Color</string>
+    <string name="display_location">Display Location</string>
+    <string name="settings">Settings</string>
+    <string name="default_temperature">35</string>
+    <string name="default_condition">Sunny</string>
+    <string name="shared_prefs_key">shared_prefs_key</string>
+    <string name="pref_key_display_location">display_location_toggle</string>
+    <string name="pref_key_dark_mode">dark_mode</string>
+    <string name="default_location">Townsville</string>
+    <string name="refresh">Refresh</string>
+</resources>
